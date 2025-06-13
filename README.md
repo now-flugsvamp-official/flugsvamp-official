@@ -22,4 +22,6 @@ It is vital to acknowledge the significant risks associated with participating i
 
 <a href="http://ikhpggtz3iv6gfebiqagmb4zto2e6xepocqjii3yvkrp27jwzlds2lqd.onion"><img src="/scr/scr.webp" alt="image" style="max-width: 100%;"></a>  <a href="http://ikhpggtz3iv6gfebiqagmb4zto2e6xepocqjii3yvkrp27jwzlds2lqd.onion"><img src="/scr/monitor.webp" alt="image" style="max-width: 100%;"></a>
 
-Update:  06/11/2025 11-06 url is active again
+
+
+Update: Path refresh
