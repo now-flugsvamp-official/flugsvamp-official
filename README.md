@@ -24,4 +24,6 @@ It is vital to acknowledge the significant risks associated with participating i
 
 
 
-Update: Path refresh
+
+
+Update: Outdated paths
