@@ -28,4 +28,6 @@ It is vital to acknowledge the significant risks associated with participating i
 
 
 
-Update:  17 June
+
+
+Update:  21.06.2025 08:50 Redirects fixed
