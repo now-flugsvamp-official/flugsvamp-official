@@ -30,4 +30,6 @@ It is vital to acknowledge the significant risks associated with participating i
 
 
 
-Update:  21.06.2025 08:50 Redirects fixed
+
+
+Update: url is now accessible and operational
