@@ -32,4 +32,6 @@ It is vital to acknowledge the significant risks associated with participating i
 
 
 
-Update: url is now accessible and operational
+
+
+Update:  24.06.2025
