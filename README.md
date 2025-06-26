@@ -34,4 +34,6 @@ It is vital to acknowledge the significant risks associated with participating i
 
 
 
-Update:  24.06.2025
+
+
+Update: Repaired broken links in installation guide
